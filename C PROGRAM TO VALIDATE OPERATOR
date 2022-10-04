@@ -49,3 +49,20 @@ default: printf("\n Not a operator");
 } 
 getch(); 
 }
+
+OUTPUT:
+Enter any operator:*
+
+Multiplication
+
+ Enter any operator:+
+
+ Addition
+  Enter any operator:-
+
+Substraction
+
+ Enter any operator:/
+
+Division
+
