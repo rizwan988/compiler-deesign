@@ -24,6 +24,6 @@ int yywrap( )
 
 
 Enter some input string:
-sekhar
+rizwan
 Number of vowels=2
 Number of consonants=4
